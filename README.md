@@ -2,7 +2,7 @@
 
 Backend de um blog utilizando Strapi e Postgres
 <br />
-O Frontend é feito em NextJs e em breve o repo estara disponivel no GitHub tambem :)
+O Frontend do site é feito com React e está disponivel no github
 
 ## ⚙️ Techs
 
